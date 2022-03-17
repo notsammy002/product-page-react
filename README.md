@@ -29,6 +29,6 @@ You can also take the glimpse of our Project,just follow the below steps:
 3.Our website had 2 things User can post anything and message to his/her friends.
 
 ## ScreenShots
-![Uploading Screenshot 2022-03-17 140959.png…]()
+![Screenshot 2022-03-17 140959](https://user-images.githubusercontent.com/97031223/158770972-a4ab7ad9-f75e-4bba-abde-19fa2f9aa271.png)
 ![Screenshot 2022-03-17 141046](https://user-images.githubusercontent.com/97031223/158770794-22829561-7f46-4431-9697-fa2337ef88ae.png)
-![Uploading Screenshot 2022-03-17 141112.png…]()
+![Screenshot 2022-03-17 141112](https://user-images.githubusercontent.com/97031223/158771083-5d185e8c-39b6-4183-b8f1-79a4029895d5.png)

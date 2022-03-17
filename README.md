@@ -9,7 +9,9 @@ category of product you wanted to be displayed
 
 The website is deployed on heroku server
 
+## Live Demo
 
+https://online-store-masai.herokuapp.com/
 
 ## Technology Used
 
@@ -22,11 +24,10 @@ In this project we were able to achieve a near to perfect clone of the original 
 
 You can also take the glimpse of our Project,just follow the below steps:
 
-1.run the command npm run start in terminal to start the app at port 3000.
+1.Clone the repo and then install npm in file
 
-2.Go to the browser you will land in the landing page just Register and login if you have signed up before or do the signup.
+2.run the command npm run start in terminal to start the app at port 3000.
 
-3.Our website had 2 things User can post anything and message to his/her friends.
 
 ## ScreenShots
 ![Screenshot 2022-03-17 140959](https://user-images.githubusercontent.com/97031223/158770972-a4ab7ad9-f75e-4bba-abde-19fa2f9aa271.png)
